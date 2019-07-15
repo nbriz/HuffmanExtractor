@@ -11,7 +11,7 @@ u could just download the `HuffmanExtractor.js` file and include client-side as 
 $ npm install git+https://github.com/nbriz/HuffmanExtractor.git
 ```
 ```HTML
-<script src="node_modules/HuffmanExtractor/HuffmanExtractor.js"></script>
+<script src="node_modules/huffmanextractor/HuffmanExtractor.js"></script>
 ```
 
 or server-side (ie. in nodeJS) that looks like this:
